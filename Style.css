@@ -1,0 +1,100 @@
+
+.welcomeimage>img{
+    height:100vh;
+    width: 94vw;
+    margin-left: 2vw;
+    margin-right: 2vw;
+}
+
+.footer{
+    height: 80px;
+    background-color: black;
+    color: white;
+   
+}
+
+.footer>p{
+    font-size: 25px;
+    text-align: center;
+
+}
+
+ul{
+    display: flex;
+   
+}
+
+h1{
+    margin-left: 2rem;
+    padding-top: 7px;
+}
+
+
+
+li{
+    margin:1rem;
+    list-style:none;
+    font-size: 1rem;
+    
+}
+
+.pep{
+    display:flex;
+   
+}
+
+.pep>div{
+    text-align: center;
+    margin:2rem;
+}
+
+.navbar>nav{
+    display: flex;
+    justify-content: space-between;
+}
+
+
+
+.two>p{
+    padding-top: 3rem;
+}
+
+.three>p{
+    padding-top: 2.7rem;
+}
+
+.two>h2{
+    padding-top: 2.7rem;
+}
+
+.three>h2{
+    padding-top: 2.3rem;
+}
+
+.one>p{
+    padding-top: 2.6rem;
+}
+
+a{
+    text-decoration: none;
+}
+
+a:link,a:visited{
+    color: black;
+}
+
+a:hover{
+    color: blue;
+    
+}
+
+
+
+
+
+
+
+
+
+
+
